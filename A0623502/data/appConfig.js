@@ -748,7 +748,7 @@ var appConfig ={
             "audio": "assets/audios/gameSpecific/siete.mp3",
             "image": "assets/images/gameSpecific/Seven.png",
             "relativeZone": 2,
-            "uniqueId": 1
+            "uniqueId": 0
           },
           {
             "word": "piano",
@@ -769,7 +769,7 @@ var appConfig ={
             "audio": "assets/audios/gameSpecific/novia.mp3",
             "image": "assets/images/gameSpecific/novia.png",
             "relativeZone": 1,
-            "uniqueId": 2
+            "uniqueId": 3
           }
         ]
       }
